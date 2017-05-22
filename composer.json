@@ -1,0 +1,16 @@
+{
+    "name": "dfkimera/iconmaker",
+    "description": "Tool to generate iOS and Android icons in all sizes for Cordova and Ionic hybrid apps",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aryel Tupinamba",
+            "email": "aryel.tupinamba@lqdi.net"
+        }
+    ],
+    "require": {
+        "silex/silex": "^2.1",
+        "illuminate/support": "^5.4",
+        "intervention/image": "^2.3"
+    }
+}
